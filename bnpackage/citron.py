@@ -26,5 +26,6 @@ def kathleen_citron ():
                 print("You don't like vegetables -PJ")
                 print("You like online games - Bea")
                 print("Wow! Let's play some online games - Justine")
+                print("Keep up the good work! - Patricia")
             case 4:
                 return            
