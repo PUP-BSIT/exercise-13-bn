@@ -23,7 +23,7 @@ def ynion_mabeamae():
                 print("\nComments")
                 print("Goodluck on your programming journey!")
                 print("Keep up the good work <3 -PJ")
-                #TODO QUIAMBAO
+                print("Good job bea! - Patricia")
                 print("Great work! - Kath")
             case 4:
                 print("\nExit.")
