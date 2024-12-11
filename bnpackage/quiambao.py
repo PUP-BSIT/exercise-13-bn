@@ -21,7 +21,7 @@ def patricia_quiambao():
                 pass
                 # Ex: print("Comment -Name")
                 # TODO Ynion
-                # TODO Patricia Joy
+                print("Goodluck! -PJ")
                 # TODO Delima
                 # TODO Kath
             case 4:
