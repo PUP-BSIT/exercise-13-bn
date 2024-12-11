@@ -22,7 +22,7 @@ def patricia_quiambao():
                 # Ex: print("Comment -Name")
                 print("Your Potchi is so cute - Bea")
                 print("Goodluck! -PJ")
-                # TODO Delima
+                print("Keep up the good work! -Justine")
                 print("Keep it up! - Kath")
             case 4:
                 return
