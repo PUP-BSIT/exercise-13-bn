@@ -4,7 +4,7 @@ def kathleen_citron ():
 
     while choice != 4:
 
-        print(f"Hello! My name is Kathleen C. Citron")
+        print("Hello! My name is Kathleen C. Citron")
         print("1. Basic Info")
         print("2. Goals")
         print("3. Comments")
@@ -14,14 +14,14 @@ def kathleen_citron ():
         match choice:
 
             case 1:
-                print(f"i like vegetables.")
-                print(f"i'm 19 years old.")
-                pint(f"i love playing online games.")
+                print("I like vegetables.")
+                print("I'm 19 years old.")
+                print("I love playing online games.")
 
             case 2:
-                print(f"my goal is to be a successful person.")
-                print(f"improving my codingg skills.")
+                print("My goal is to be a successful person.")
+                print("Improving my coding skills.")
             case 3:
-                print(f"opinionsss:")
+                print("Opinions:")
             case 4:
-                return
+                return            
