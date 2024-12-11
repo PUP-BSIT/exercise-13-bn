@@ -20,6 +20,7 @@ def patricia_relente():
                 print("> Frico is a 2-year-old tuxedo cat.")
                 print("> He loves Chicken.")
                 print("> Frico is so cute - Bea")
+                print("> Frico is so handsome - Kath")
             case 4:
                 return
             case _:
