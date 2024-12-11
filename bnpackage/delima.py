@@ -21,7 +21,7 @@ def justine_delima():
                 # Ex: print("Comment -Name")
                 print("Goodluck to your journey! - Bea")
                 print("Nice Menu -PJ")
-                # TODO Patricia Anne
+                print("Keep up the good work! - Patricia")
                 print("Good job! - Kath")
             case 4: # Exit
                 print('\nGoodbye!\n')
