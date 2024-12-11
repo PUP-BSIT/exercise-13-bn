@@ -13,7 +13,7 @@ def justine_delima():
             case 1: #  Basic Info
                 print('\nAge: 19')
                 print('Birthdate: February 24, 2005')
-                print('Currentt School Attended: Polytechnic of the Philippines-Taguig\n')
+                print('Current School Attended: Polytechnic University of the Philippines-Taguig\n')
             case 2: # Goal
                 print('\nGoal: To have a stable life.\n')
             case 3: # Comments
@@ -24,5 +24,5 @@ def justine_delima():
                 # TODO Patricia Anne
                 # TODO Kath
             case 4: # Exit
-                print('\nGoodbyye!\n')
+                print('\nGoodbye!\n')
                 return
