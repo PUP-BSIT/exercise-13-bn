@@ -22,7 +22,7 @@ def ynion_mabeamae():
             case 3:
                 print("\nComments")
                 #TODO DELIMA
-                #TODO RELENTE
+                print("Keep up the good work <3 -PJ")
                 #TODO QUIAMBAO
                 #TODO CITRON
             case 4:
