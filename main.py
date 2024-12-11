@@ -23,7 +23,7 @@ def menu():
             case 4:
                 relente.patricia_relente()
             case 5:
-                pass
+                ynion.ynion_mabeamae()
             case 6: 
                 break
 
