@@ -14,9 +14,9 @@ def patricia_quiambao():
         match choice:
 
             case 1:
-                print("I'm 20 yearss old now.")
+                print("I'm 20 years old now.")
             case 2:
-                print("Continuosly acquire new skill. While further improving my coding skill.")
+                print("Continuously acquire new skill. While further improving my coding skill.")
             case 3:
                 pass
                 # Ex: print("Comment -Name")
