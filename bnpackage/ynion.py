@@ -24,7 +24,7 @@ def ynion_mabeamae():
                 #TODO DELIMA
                 print("Keep up the good work <3 -PJ")
                 #TODO QUIAMBAO
-                #TODO CITRON
+                print("Great work! - Kath")
             case 4:
                 print("\nExit.")
                 return
