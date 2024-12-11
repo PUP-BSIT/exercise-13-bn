@@ -20,7 +20,7 @@ def justine_delima():
                 pass
                 # Ex: print("Comment -Name")
                 # TODO Ynion
-                # TODO Patricia Joy
+                print("Nice Menu -PJ")
                 # TODO Patricia Anne
                 # TODO Kath
             case 4: # Exit
