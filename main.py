@@ -19,7 +19,7 @@ def menu():
             case 2:
                 pass
             case 3:
-                pass
+                quiambao.patricia_quiambao()
             case 4:
                 relente.patricia_relente()
             case 5:
