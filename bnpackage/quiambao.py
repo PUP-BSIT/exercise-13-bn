@@ -20,7 +20,7 @@ def patricia_quiambao():
             case 3:
                 pass
                 # Ex: print("Comment -Name")
-                # TODO Ynion
+                print("Your Potchi is so cute - Bea")
                 print("Goodluck! -PJ")
                 # TODO Delima
                 # TODO Kath
