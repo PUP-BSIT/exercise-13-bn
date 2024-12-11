@@ -16,11 +16,11 @@ def ynion_mabeamae():
                 print("\nDate of Birth : July 29, 2004")
                 print("Age : 20")
                 print("Email : mabeamaeynion@gmail.com")
-                print("Religion : Roman Cathokic")
+                print("Religion : Roman Catholic")
             case 2:
-                print("\nGoals: To learn more about programming and improve my problem-solving skillls.")
+                print("\nGoals: To learn more about programming and improve my problem-solving skills.")
             case 3:
-                print(f"\nComments")
+                print("\nComments")
                 #TODO DELIMA
                 #TODO RELENTE
                 #TODO QUIAMBAO
