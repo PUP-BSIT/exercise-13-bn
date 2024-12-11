@@ -23,6 +23,6 @@ def patricia_quiambao():
                 print("Your Potchi is so cute - Bea")
                 print("Goodluck! -PJ")
                 # TODO Delima
-                # TODO Kath
+                print("Keep it up! - Kath")
             case 4:
                 return
