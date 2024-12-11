@@ -22,6 +22,7 @@ def patricia_relente():
                 print("> Frico is so cute - Bea")
                 print("> Frico is so handsome - Kath")
                 print("> I love cookies and cream cats like Frico <3 - Justine")
+                print("> Frico is such a good cat - Patricia")
             case 4:
                 return
             case _:
