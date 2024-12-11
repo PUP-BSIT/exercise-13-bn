@@ -22,7 +22,7 @@ def justine_delima():
                 print("Goodluck to your journey! - Bea")
                 print("Nice Menu -PJ")
                 # TODO Patricia Anne
-                # TODO Kath
+                print("Good job! - Kath")
             case 4: # Exit
                 print('\nGoodbye!\n')
                 return
