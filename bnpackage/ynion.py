@@ -21,7 +21,7 @@ def ynion_mabeamae():
                 print("\nGoals: To learn more about programming and improve my problem-solving skills.")
             case 3:
                 print("\nComments")
-                #TODO DELIMA
+                print("Goodluck on your programming journey!")
                 print("Keep up the good work <3 -PJ")
                 #TODO QUIAMBAO
                 print("Great work! - Kath")
