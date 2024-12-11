@@ -15,7 +15,7 @@ def menu():
 
         match choice:
             case 1:
-                pass
+                citron.kathleen_citron()
             case 2:
                 pass
             case 3:

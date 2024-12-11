@@ -8,7 +8,7 @@ def kathleen_citron ():
         print("1. Basic Info")
         print("2. Goals")
         print("3. Comments")
-        print("4. Exit")
+        print("4. Back")
         choice = int(input("Enter your choice: "))
 
         match choice:
