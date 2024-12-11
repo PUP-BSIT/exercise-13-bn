@@ -14,14 +14,12 @@ def patricia_relente():
                 print("I am PJ, a 2nd-year DIT Student from PUP-Taguig Campus.") 
                 print("I love petting my cat because it relieves my stress.")
             case 2:
-                print("Goal: To have a happy and meaningful life")
+                print("Goal: To have a happy and meaningful life.")
             case 3:
                 print("About my cat")
-                print("> Frico is a 2-year-old tuxedo cat")
-                print("> He loves Chimken.")
+                print("> Frico is a 2-year-old tuxedo cat.")
+                print("> He loves Chicken.")
             case 4:
                 return
             case _:
                 print("Invalid choice. Please try again.")
-
-patricia_relente()
