@@ -23,5 +23,6 @@ def kathleen_citron ():
                 print("Improving my coding skills.")
             case 3:
                 print("Opinions:")
+                print("You don't like vegetables -PJ")
             case 4:
                 return            
