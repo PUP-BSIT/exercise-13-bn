@@ -19,7 +19,7 @@ def justine_delima():
             case 3: # Comments
                 pass
                 # Ex: print("Comment -Name")
-                # TODO Ynion
+                print("Goodluck to your journey! - Bea")
                 print("Nice Menu -PJ")
                 # TODO Patricia Anne
                 # TODO Kath
