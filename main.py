@@ -17,9 +17,9 @@ def menu():
             case 1:
                 citron.kathleen_citron()
             case 2:
-                pass
+                delima.justine_delima()
             case 3:
-                pass
+                quiambao.patricia_quiambao()
             case 4:
                 relente.patricia_relente()
             case 5:

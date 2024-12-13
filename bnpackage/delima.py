@@ -6,7 +6,7 @@ def justine_delima():
         print('[1] Basic Information')
         print('[2] Goals')
         print('[3] Comments')
-        print('[4] Exit')
+        print('[4] Back')
         user_choice = int(input("Enter your choice: "))
 
         match user_choice:
@@ -17,11 +17,9 @@ def justine_delima():
             case 2: # Goal
                 print('\nGoal: To have a stable life.\n')
             case 3: # Comments
-                pass
-                # Ex: print("Comment -Name")
                 print("Goodluck to your journey! - Bea")
                 print("Nice Menu -PJ")
-                # TODO Patricia Anne
+                print("Keep up the good work! - Patricia")
                 print("Good job! - Kath")
             case 4: # Exit
                 print('\nGoodbye!\n')
