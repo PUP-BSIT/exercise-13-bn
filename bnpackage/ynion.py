@@ -1,5 +1,4 @@
 def ynion_mabeamae():
-    
     choice = 0
     
     while choice != 4:
@@ -18,10 +17,12 @@ def ynion_mabeamae():
                 print("Email : mabeamaeynion@gmail.com")
                 print("Religion : Roman Catholic")
             case 2:
-                print("\nGoals: To learn more about programming and improve my problem-solving skills.")
+                print("\nGoals:")
+                print("- To learn more about programming")
+                print("- Improve my problem-solving skills.")
             case 3:
                 print("\nComments")
-                print("Goodluck on your programming journey!")
+                print("Goodluck on your programming journey! - Tine")
                 print("Keep up the good work <3 -PJ")
                 print("Good job bea! - Patricia")
                 print("Great work! - Kath")
