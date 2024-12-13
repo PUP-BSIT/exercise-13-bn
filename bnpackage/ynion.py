@@ -22,7 +22,7 @@ def ynion_mabeamae():
                 print("- Improve my problem-solving skills.")
             case 3:
                 print("\nComments")
-                print("Goodluck on your programming journey!")
+                print("Goodluck on your programming journey! - Tine")
                 print("Keep up the good work <3 -PJ")
                 print("Good job bea! - Patricia")
                 print("Great work! - Kath")
