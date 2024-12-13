@@ -1,9 +1,7 @@
 def kathleen_citron ():
-
     choice = 0
 
     while choice != 4:
-
         print("Hello! My name is Kathleen C. Citron")
         print("1. Basic Info")
         print("2. Goals")
@@ -12,12 +10,10 @@ def kathleen_citron ():
         choice = int(input("Enter your choice: "))
 
         match choice:
-
             case 1:
                 print("I like vegetables.")
                 print("I'm 19 years old.")
                 print("I love playing online games.")
-
             case 2:
                 print("My goal is to be a successful person.")
                 print("Improving my coding skills.")
@@ -25,6 +21,7 @@ def kathleen_citron ():
                 print("Opinions:")
                 print("You don't like vegetables -PJ")
                 print("You like online games - Bea")
+                print("Wow - Tine")
                 print("Wow! Let's play some online games - Justine")
                 print("Keep up the good work! - Patricia")
             case 4:
